@@ -5,7 +5,7 @@ Welcome to the **AI-Powered Job Finder**! This is a web-based job search platfor
 ---
 
 ## Table of Contents 
-
+ 
 - [Project Overview](#project-overview) 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
