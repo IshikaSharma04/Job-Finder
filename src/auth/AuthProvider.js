@@ -8,3 +8,8 @@ export const AuthProvider = ({ children }) => {
 export const AuthProvider = ({ children }) => {
   return <div className="auth-wrapper">{children}</div>;
 };
+
+// Updated: 2026-06-12 13:30:00
+export const AuthProvider = ({ children }) => {
+  return <div className="auth-wrapper">{children}</div>;
+};
