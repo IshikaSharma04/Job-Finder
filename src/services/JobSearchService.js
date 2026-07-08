@@ -19,3 +19,10 @@ export class JobSearchService {
     return jobs.filter(j => j.salary >= criteria.minSalary);
   }
 }
+
+// Updated: 2026-07-08 10:15:00
+export class JobSearchService {
+  static filterJobs(jobs, criteria) {
+    return jobs.filter(j => j.salary >= criteria.minSalary);
+  }
+}
