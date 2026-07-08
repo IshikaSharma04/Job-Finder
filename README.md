@@ -14,7 +14,7 @@ Welcome to the **AI-Powered Job Finder**! This is a web-based job search platfor
  
 ---
 
-## Project Overview
+## Project Overview 
 
 **AI-Powered Job Finder** is designed to make the job search process more efficient and intelligent. It allows users to search for jobs based on titles and locations, schedule interviews directly in Google Calendar, and generate personalized cover letters using OpenAI’s GPT model. The app combines multiple APIs for job search, scheduling, and AI to offer a comprehensive job application tool.
 
