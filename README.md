@@ -11,7 +11,7 @@ Welcome to the **AI-Powered Job Finder**! This is a web-based job search platfor
 - [Technologies Used](#technologies-used)  
 -[API Integrations](#api-integrations) 
   
-
+ 
 ---
 
 ## Project Overview
