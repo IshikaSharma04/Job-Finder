@@ -1,10 +1,10 @@
 # AI-Powered Job Finder  
   
-Welcome to the **AI-Powered Job Finder**! This is a web-based job search platform that integrates AI, Google Calendar, and other APIs to help job seekers discover job listings, schedule interviews, and generate cover letters effortlessly.    
+Welcome to the **AI-Powered Job Finder**! This is a web-based job search platform that integrates AI, Google Calendar, and other APIs to help job seekers discover job listings, schedule interviews, and generate cover letters effortlessly.     
    
 ---     
   
-## Table of Contents         
+## Table of Contents          
    
 - [Project Overview](#project-overview)    
 - [Features](#features)    
