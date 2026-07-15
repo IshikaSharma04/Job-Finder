@@ -10,7 +10,7 @@ Welcome to the **AI-Powered Job Finder**! This is a web-based job search platfor
 - [Features](#features)    
 - [Technologies Used](#technologies-used)    
 -[API Integrations](#api-integrations) 
-  
+   
  
 --- 
 
